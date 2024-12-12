@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## An enthusiast in learning about information technology. 😄
+
 <!--
 **brazgarcia/brazgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
