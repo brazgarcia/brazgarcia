@@ -1,7 +1,7 @@
-# h2 Hi there 👋
+# Hi there 👋
 
-## h3 An enthusiast in learning about information technology. 😄
-### h4 Um entusiasta em aprender sobre tecnologia da informação.
+## An enthusiast in learning about information technology. 😄
+### Um entusiasta em aprender sobre tecnologia da informação.
 
 <!--
 **brazgarcia/brazgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
