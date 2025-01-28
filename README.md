@@ -3,6 +3,8 @@
 ## An enthusiast in learning about information technology. 😄
 ### Um entusiasta em aprender sobre tecnologia da informação.
 
+## 📚Languages & tools I have placed my hands on.
+
 <!--
 **brazgarcia/brazgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
