@@ -5,7 +5,7 @@
 
 ## 📚Languages & tools I have placed my hands on.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,php,github,git,arduino,figma)]('')
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,github,git,arduino,figma)]('')
 
 <!--
 **brazgarcia/brazgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
