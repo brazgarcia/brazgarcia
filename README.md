@@ -7,7 +7,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,vscode,github,git,arduino,figma)]('')
 
-<img src="https://camo.githubusercontent.com/7932533c77b6bd7e5d58e622a9bf5517d1052b9394d27ee046be33f079a53bb6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4a6f616f4753696c7665697261267468656d653d626c75652d677265656e" alt="Linguagens" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGSilveira&amp;theme=blue-green" style="max-width: 100%;">
+
 
 <!--
 **brazgarcia/brazgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
