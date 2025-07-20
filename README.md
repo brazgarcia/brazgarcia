@@ -5,7 +5,7 @@
 
 ## 📚Languages & tools I have placed my hands on.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,vscode,github,git,arduino,figma)]('')
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,js,php,vscode,github,git,arduino,figma)]('')
 
 
 
