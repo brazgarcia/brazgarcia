@@ -3,9 +3,19 @@
 ## An enthusiast in learning about information technology. 😄
 ### Um entusiasta em aprender sobre tecnologia da informação.
 
-## 📚Languages & tools I have placed my hands on.
+👋 Olá! Seja bem-vindo ao meu perfil do GitHub!
+
+Aqui você vai encontrar um pouco dos meus projetos, meu repertório técnico e também links para minhas redes sociais e formas de contato. Sou apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em soluções reais através do código.
+
+✨ Estou sempre buscando aprimorar minhas habilidades e contribuir com a comunidade. Explore os repositórios, fique à vontade para sugerir melhorias ou trocar ideias — conexões e colaborações são sempre bem-vindas!
+
+## 📚Languages & tools I have placed my hands on. 🚀
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,js,php,vscode,github,git,arduino,figma)]('')
+
+📫 Vamos nos conectar? 🧲 Connect me: 
+
+###...
 
 
 
