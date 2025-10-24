@@ -15,7 +15,7 @@ Aqui você vai encontrar um pouco dos meus projetos, meu repertório técnico e 
 
 📫 Vamos nos conectar? 🧲 Connect me: 
 
-Me encontre no LinkedIn: linkedin.com/in/braz-garcia
+Me encontre no LinkedIn: <linkedin.com/in/braz-garcia>
 
 ###...
 
