@@ -18,9 +18,75 @@ Aqui você vai encontrar um pouco dos meus projetos, meu repertório técnico e 
 Me encontre no [LinkedIn](https://www.linkedin.com/in/braz-garcia "Acessar perfil de Braz Garcia no LinkedIn")
 
 
+### Conheça meus projetos de portifólio: 
+
+<a href="https://channel-box-plus.vercel.app/" target="_blank">
+    <img src="./### Conheça meus projetos de portifólio: 
+
+<a href="https://channel-box-plus.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/brazgarcia/imagens_perfil-portifolio/refs/heads/main/channelbox.png"
+         alt="Site-portifólio ChannelBox+" 
+         width="40%"
+         style="border: 1px solid green;">
+</a>
+<a href="https://virtua-book.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/brazgarcia/imagens_perfil-portifolio/refs/heads/main/channelbox.png"
+         alt="Site-portifólio ChannelBox+" 
+         width="40%"
+         style="border: 1px solid green;">
+</a>
+
+<a href="https://landing-page-avatar-three.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/brazgarcia/imagens_perfil-portifolio/refs/heads/main/channelbox.png"
+         alt="Site-portifólio ChannelBox+" 
+         width="40%"
+         style="border: 1px solid green;">
+</a>
+<a href="https://formulario-simpsons.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/brazgarcia/imagens_perfil-portifolio/refs/heads/main/channelbox.png"
+         alt="Site-portifólio ChannelBox+" 
+         width="40%"
+         style="border: 1px solid green;">
+</a>
+<a href="https://previsaodotempo-teal.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/brazgarcia/imagens_perfil-portifolio/refs/heads/main/channelbox.png"
+         alt="Site-portifólio ChannelBox+" 
+         width="40%"
+         style="border: 1px solid green;">
+</a>"
+         alt="Site-portifólio ChannelBox+" 
+         width="40%"
+         style="border: 1px solid green;">
+</a>
+<a href="https://virtua-book.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/brazgarcia/imagens_perfil-portifolio/refs/heads/main/channelbox.png"
+         alt="Site-portifólio ChannelBox+" 
+         width="40%"
+         style="border: 1px solid green;">
+</a>
+
+<a href="https://landing-page-avatar-three.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/brazgarcia/imagens_perfil-portifolio/refs/heads/main/channelbox.png"
+         alt="Site-portifólio ChannelBox+" 
+         width="40%"
+         style="border: 1px solid green;">
+</a>
+<a href="https://formulario-simpsons.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/brazgarcia/imagens_perfil-portifolio/refs/heads/main/channelbox.png"
+         alt="Site-portifólio ChannelBox+" 
+         width="40%"
+         style="border: 1px solid green;">
+</a>
+<a href="https://previsaodotempo-teal.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/brazgarcia/imagens_perfil-portifolio/refs/heads/main/channelbox.png"
+         alt="Site-portifólio ChannelBox+" 
+         width="40%"
+         style="border: 1px solid green;">
+</a>
 
 
-###...
+
+### ...
 
 
 
