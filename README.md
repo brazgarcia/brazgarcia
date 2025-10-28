@@ -20,8 +20,6 @@ Me encontre no [LinkedIn](https://www.linkedin.com/in/braz-garcia "Acessar perfi
 
 ### Conheça meus projetos de portifólio: 
 
-<a href="https://channel-box-plus.vercel.app/" target="_blank">
-    <img src="./### Conheça meus projetos de portifólio: 
 
 <a href="https://channel-box-plus.vercel.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/brazgarcia/imagens_perfil-portifolio/refs/heads/main/channelbox.png"
@@ -31,42 +29,42 @@ Me encontre no [LinkedIn](https://www.linkedin.com/in/braz-garcia "Acessar perfi
 </a>
 
 <a href="https://virtua-book.vercel.app/" target="_blank">
-    <img src="#"
+    <img src="https://raw.githubusercontent.com/brazgarcia/brazgarcia/Virtuabooks.png"
          alt="Site-portifólio VirtuaBooks" 
          width="40%"
          style="border: 1px solid green;">
 </a>
 
 <a href="https://landing-page-avatar-three.vercel.app/" target="_blank">
-    <img src="#"
-         alt="Site-portifólio Ladding-Page Avatar" 
+    <img src="https://raw.githubusercontent.com/brazgarcia/brazgarcia/landing-page_vatar.png"
+         alt="Site-portifólio Landing-Page Avatar" 
          width="40%"
          style="border: 1px solid green;">
 </a>
 
 <a href="https://modelo-portifolio-livid.vercel.app/" target="_blank">
-    <img src="#"
+    <img src="https://raw.githubusercontent.com/brazgarcia/brazgarcia/modelo-portifolio.png"
          alt="Site-portifólio Modelo-portifólio" 
          width="40%"
          style="border: 1px solid green;">
 </a>
 
 <a href="https://to-do-list-4wr4.onrender.com/" target="_blank">
-    <img src="#"
+    <img src="https://raw.githubusercontent.com/brazgarcia/brazgarcia/to-do-list.png"
          alt="Site-portifólio To Do List" 
          width="40%"
          style="border: 1px solid green;">
 </a>
 
 <a href="https://formulario-simpsons.vercel.app/" target="_blank">
-    <img src="#"
+    <img src="https://raw.githubusercontent.com/brazgarcia/brazgarcia/lista_simpsons.png"
          alt="Site-portifólio Lista-Simpsons" 
          width="40%"
          style="border: 1px solid green;">
 </a>
 
 <a href="https://previsaodotempo-teal.vercel.app/" target="_blank">
-    <img src="#"
+    <img src="https://raw.githubusercontent.com/brazgarcia/brazgarcia/previsao_tempo.png"
          alt="Site-portifólio Previsão-tempo" 
          width="40%"
          style="border: 1px solid green;">
