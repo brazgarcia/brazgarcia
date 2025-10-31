@@ -9,6 +9,20 @@ Aqui você vai encontrar um pouco dos meus projetos, meu repertório técnico e 
 
 ✨ Estou sempre buscando aprimorar minhas habilidades e contribuir com a comunidade. Explore os repositórios, fique à vontade para sugerir melhorias ou trocar ideias — conexões e colaborações são sempre bem-vindas!
 
+<div align="center">
+  <!-- Profile Views -->
+  <a href="https://github.com/brazgarcia" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=brazgarcia&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
+
+  <!-- Total Stars -->
+  <a href="https://github.com/brazgarcia?tab=repositories&sort=stargazers" target="_blank">
+    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/brazgarcia?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
+
+  <!-- Followers -->
+  <a href="https://github.com/brazgarcia?tab=followers" target="_blank">
+    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/brazgarcia?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
+</div>
+
 ## 📚Languages & tools I have placed my hands on. 🚀
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,js,php,vscode,github,git,arduino,figma,grafana)]('')
