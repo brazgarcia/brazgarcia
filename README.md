@@ -25,7 +25,7 @@ Aqui você vai encontrar um pouco dos meus projetos, meu repertório técnico e 
 
 ## 📚Languages & tools I have placed my hands on. 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,js,php,vscode,github,git,arduino,figma,grafana)]('')
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,js,ts,react,php,vscode,github,git,arduino,figma,grafana)]('')
 
 📫 Vamos nos conectar? 🧲 Connect me: 
 
